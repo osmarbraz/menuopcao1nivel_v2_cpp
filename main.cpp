@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main(int argc, char *argv[]) {
+int main(int argc, char **argv) {
     //Variável que define as opções do menu
     int opcao1 = -1;
     while (opcao1 != 9) {
